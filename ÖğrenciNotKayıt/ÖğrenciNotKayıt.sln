@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ÖğrenciNotKayıt", "ÖğrenciNotKayıt\ÖğrenciNotKayıt.csproj", "{0F076FA0-D3F8-401A-A511-6A527E26A012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F076FA0-D3F8-401A-A511-6A527E26A012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F076FA0-D3F8-401A-A511-6A527E26A012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F076FA0-D3F8-401A-A511-6A527E26A012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F076FA0-D3F8-401A-A511-6A527E26A012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46A6C57-312A-40F0-AB4F-3777971E31E2}
+	EndGlobalSection
+EndGlobal
